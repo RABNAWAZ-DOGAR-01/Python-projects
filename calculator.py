@@ -1,7 +1,7 @@
 import streamlit as st
 
 def calculator():
-    st.title("🖩 Symbolic Streamlit Calculator")
+    st.title("🖩 Simple Streamlit Calculator")
 
     st.write("### Select an operation:")
     operation = st.radio("Choose:", 
